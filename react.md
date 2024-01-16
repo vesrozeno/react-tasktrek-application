@@ -1,4 +1,4 @@
-﻿# React Basics Concepts
+﻿# React Basic Concepts
 
 #### Creating component
 Component is Reusable piece of code that used to define certain part of user interface.
