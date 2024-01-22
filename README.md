@@ -1,4 +1,4 @@
-﻿# ReactJS TastTrek Application Project
+﻿# ✅ TastTrek Application - ReactJS
 
 ## Technologies used:
 
